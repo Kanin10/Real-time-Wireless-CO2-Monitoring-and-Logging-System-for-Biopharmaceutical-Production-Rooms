@@ -28,7 +28,8 @@ An advanced IoT-based environmental monitoring system designed for biopharmaceut
 **Work in Progress**
 
 ### IoT Dashboards
-<img width="950" height="588" alt="image" src="https://github.com/user-attachments/assets/d4e0bfe8-75cd-4d2d-a87a-431f526c4eec" /> **Need to fix**
+<img width="950" height="588" alt="image" src="https://github.com/user-attachments/assets/d4e0bfe8-75cd-4d2d-a87a-431f526c4eec" /> 
+**Need to fix**
 
 
 ### Telegram Alert Demonstration
