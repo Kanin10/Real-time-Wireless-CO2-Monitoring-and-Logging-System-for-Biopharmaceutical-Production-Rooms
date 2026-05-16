@@ -1,6 +1,6 @@
 # Real-time-Wireless-CO2-Monitoring-and-Logging-System-for-Biopharmaceutical-Production-Rooms
 IoT-based CO2 monitoring system using ESP32, SCD41, Node-RED , and Telegram
-> **🚧 Status: Work in Progress (Active Development)**
+
 
 An advanced IoT-based environmental monitoring system designed for biopharmaceutical cleanrooms. This senior project utilizes an ESP32 microcontroller and an SCD41 sensor to continuously measure CO2 levels. It features live data visualization via **Node-RED** and **Blynk**, alongside a sophisticated multi-tier physical and digital alert system.
 
@@ -25,11 +25,13 @@ An advanced IoT-based environmental monitoring system designed for biopharmaceut
 3. The system evaluates the CO2 levels against predefined thresholds (800 ppm and 1100 ppm) to trigger the appropriate hardware indicators (LEDs/Buzzer) and API requests (Telegram Bot).
 
 ## 📸 Project Showcase
-**Work in Progress**
+<img width="4608" height="3456" alt="image" src="https://github.com/user-attachments/assets/56c2849a-fe5d-466e-b32a-03cdd522486f" />
+
 
 ### IoT Dashboards
-<img width="950" height="588" alt="image" src="https://github.com/user-attachments/assets/d4e0bfe8-75cd-4d2d-a87a-431f526c4eec" /> 
-**Need to fix**
+<img width="2160" height="1620" alt="image" src="https://github.com/user-attachments/assets/563188d5-e33e-4341-9577-5bc437afc7d6" />
+
+
 
 
 ### Telegram Alert Demonstration
@@ -40,9 +42,9 @@ An advanced IoT-based environmental monitoring system designed for biopharmaceut
 - [x] System architecture and logic design
 - [x] Component sourcing (ESP32, SCD41)
 - [x] Node-RED and Blynk dashboard configuration
-- [ ] Hardware assembly and 3D-printed casing integration
-- [ ] Multi-tier alert testing (Telegram & Indicators)
-- [ ] Final system calibration and stability test
+- [x] Hardware assembly and 3D-printed casing integration
+- [x] Multi-tier alert testing (Telegram & Indicators)
+- [x] Final system calibration and stability test
 
 ## 🔒 Source Code
 *Note: The full source code for this senior project is currently closed-source. However, I am fully prepared to discuss the system architecture, condition-based logic programming, and hardware integration in detail during a professional interview.*
